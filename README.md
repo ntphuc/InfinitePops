@@ -13,7 +13,7 @@ Libraries used on the sample project
 * [Data binding](https://developer.android.com/topic/libraries/data-binding/)
 * [Retrofit 2](http://square.github.io/retrofit/)
 * [RxJava2 & RxAndroid](https://github.com/ReactiveX/RxAndroid)
-* [Glide] (https://github.com/bumptech/glide)
+* [Glide](https://github.com/bumptech/glide)
 
 
 Limitations
