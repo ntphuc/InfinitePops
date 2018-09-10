@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Infinite Pops</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_github">Github</string>
+
+
+    <string name="error_loading_pop">There seems to have been some error.</string>
+    <string name="default_loading_pop">Press the button to load pop!</string>
+</resources>
